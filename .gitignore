@@ -39,3 +39,5 @@
 
 # debug information files
 *.dwo
+/.vs/UML_AnimalProject
+/UML_AnimalProject/x64/Debug
