@@ -11,7 +11,7 @@ public:
 	int age;
 
 
-	// eat()
+
 	// print info()
 	void printInfo()
 	{
